@@ -1,0 +1,9 @@
+This is a project about real time object detection running on
+Raspberry Pi 5 using Pi Camera Module v3
+
+For object detection YOLOv8 algorithm is used.
+This version of YOLO is suitable for low latency devices
+and a pre-trained model of YOLO yolov8n.pt
+
+More details about project is going to be given
+as the implementation is taking place.
