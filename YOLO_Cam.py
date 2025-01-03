@@ -47,7 +47,7 @@ while True:
     
     if frame is None:
         break
-    frame = cv2.flip(frame,-1)
+    #frame = cv2.flip(frame,-1)
     
     #results = model.predict(frame)
     results = model(frame,stream=True)
